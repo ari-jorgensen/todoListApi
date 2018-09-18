@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "arianajorgensen",
+    "password": "secretpwd",
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "secretpwd",
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "secretpwd",
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
